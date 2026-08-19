@@ -110,7 +110,7 @@ export default function Hero() {
         <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full border border-slate-800 p-2 bg-white dark:bg-slate-900/50 backdrop-blur-sm shadow-xl">
           <div className="relative w-full h-full rounded-full overflow-hidden bg-slate-800 border border-slate-800">
             <Image 
-              src="/profile/avatar.png" 
+              src="/profile/newAvatar.jpeg" 
               alt={`Foto Profil ${profile.name}`}
               fill
               className="object-cover hover:scale-105 transition-transform duration-700"
